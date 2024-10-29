@@ -311,7 +311,7 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-color: var(--main-color);
+  background-color: #0062d3b1;
   background-blend-mode: multiply;
 }
 
